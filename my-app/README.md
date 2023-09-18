@@ -1,3 +1,7 @@
+# 최신 문법 적용시 변화
+- src 디렉토리의 크기가 4,073 => 3,874 byte 로 감소
+- byte가 줄어들었다 => 코드이 줄어들었다 => 코드생산성이 높아졌다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
